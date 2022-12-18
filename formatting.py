@@ -20,3 +20,4 @@ print("Programming is like building a multilingual puzzle\n")
 
 b = { 'id': 89, 'name': "John", 'projects': [1, 2, 3, 4] }
 b.get('projects')[3]
+print(b)
